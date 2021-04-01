@@ -1,5 +1,5 @@
 # Patika-Kodluyoruz Front-End 101 Eğitimi
 
-## İlk Ödev
+## HTML Ödevi
 
-Eğitimde HTML kısmı için verilen ilk ödev. Kısa özgeçmiş içerir.
+Eğitimde HTML kısmı için verilen ödev. Kişisel websitesi içerir. Zaman içerisinde güncellenecektir.
